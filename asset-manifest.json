@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/number-fact-react/static/css/main.345b8d2f.css",
+    "main.js": "/number-fact-react/static/js/main.2e27704c.js",
+    "static/media/ai-bg.png": "/number-fact-react/static/media/ai-bg.65d8fe0c94712156ec40.png",
+    "index.html": "/number-fact-react/index.html",
+    "main.345b8d2f.css.map": "/number-fact-react/static/css/main.345b8d2f.css.map",
+    "main.2e27704c.js.map": "/number-fact-react/static/js/main.2e27704c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.345b8d2f.css",
+    "static/js/main.2e27704c.js"
+  ]
+}
